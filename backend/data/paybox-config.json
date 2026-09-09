@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "per_call_cap_usd": 5.00,
+  "daily_budget_usd": 25.00,
+  "approval_threshold_usd": 2.00,
+  "require_approval": false,
+  "base_url": "https://api.paybox.sh",
+  "tip_credentials": {
+    "ZEROX": "697a2d8a-142f-4aac-a17c-88637ec358c8"
+  },
+  "network": "solana",
+  "nativeCurrency": "USDC",
+  "mcpEnabled": true
+}
